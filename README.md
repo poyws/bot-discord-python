@@ -3,17 +3,12 @@ Este é um bot de Discord desenvolvido com a biblioteca discord.py. Ele oferece 
 
 #Funcionalidades
 
-**Comandos de interação: Envie saudações, faça perguntas e converse com o bot.
-
+__Comandos de interação: Envie saudações, faça perguntas e converse com o bot.
 Comandos de jogos: Jogue "moeda", "dado" e até participe de sorteios.
-
 Moderação: Comandos para banir/desbanir usuários e limpar mensagens.
-
 Informações: Obtenha detalhes sobre o servidor e os membros.
-
 Mensagens diretas: Envie mensagens privadas para membros do servidor (somente para o dono do bot).
-
-Comandos exclusivos para administradores: O comando de sorteio, por exemplo, só pode ser utilizado por administradores do servidor.
+Comandos exclusivos para administradores: O comando de sorteio, por exemplo, só pode ser utilizado por administradores do servidor.__
 
 # Comandos Disponíveis
 !saudar: O bot saúda o usuário.
@@ -46,4 +41,4 @@ Comandos exclusivos para administradores: O comando de sorteio, por exemplo, só
 
 !lembrete [tempo] [mensagem]: Define um lembrete para uma mensagem.
 
-!clima [cidade]: Mostra um clima aleatório para uma cidade (simulado)**
+!clima [cidade]: Mostra um clima aleatório para uma cidade (simulado)
